@@ -1,4 +1,4 @@
-# Zoom-Clone
+# zoomClone
 
 This project involved setting up a Zoom-like application using the VidStream library and Tkinter for GUI. 
 
